@@ -7,6 +7,7 @@ function App() {
     <div>
       <Header />
       <h1>Homy</h1>
+      <div>héhé depuis github</div>
       <Footer />
     </div>
   );
